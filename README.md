@@ -22,7 +22,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | Javascript
+- 💻 &nbsp; Python | Java | Javascript | C# | C++
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
 
@@ -30,7 +30,7 @@
 
 - 🛢 &nbsp; MySQL | MongoDB 
 
-- 🧰 &nbsp; Django | Nextjs | Spring Boot | Mern Stack 
+- 🧰 &nbsp; Django | Nextjs | Spring Boot | Mern Stack | C# and Asp.Net
 
 - 🔧 &nbsp; Docker🐳 | Firebase | Git | Github | heroku | netlify
 
