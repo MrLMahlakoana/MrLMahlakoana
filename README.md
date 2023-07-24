@@ -12,9 +12,9 @@
 
 - 🎓 &nbsp; I studied Bachelor of Information Technology in business system(BIT).
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design, Web 3.0 
+- 🌱 &nbsp; Interested Cloud Tech, AWS, Azure, Systems Architecture and Design, Web 3.0 
 
-- ✍️ &nbsp; Pursuing Web Development as junior full stack engineer.
+- ✍️ &nbsp; Interested in Web Development full stack engineer.
 
 
 
@@ -28,7 +28,7 @@
 
 - 📱 &nbsp; React Native | Flutter
 
-- 🛢 &nbsp; MySQL | MongoDB 
+- 🛢 &nbsp; MySQL | MongoDB | AWS 
 
 - 🧰 &nbsp; Django | Nextjs | Spring Boot | Mern Stack | C# and Asp.Net
 
